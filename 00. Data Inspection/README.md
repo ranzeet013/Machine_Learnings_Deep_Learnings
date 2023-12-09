@@ -29,12 +29,12 @@ This project involves the analysis and visualization of a dataset containing inf
 
 3. **Run the Script:**
    ```bash
-   python crab_analysis.py
+   python Dataset Inspection.py
    ```
 
 ## Usage
 
-The Python script (`crab_analysis.py`) performs the following tasks:
+The Python script (`Dataset Inspection.py`) performs the following tasks:
 
 - Loads the dataset ('crabs.csv') into a pandas DataFrame.
 - Renames columns for clarity and maps categorical values.
