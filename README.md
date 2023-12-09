@@ -24,7 +24,7 @@ Regression, a cornerstone in both statistics and machine learning, involves mode
 
 ## Usage
 
-Explore the provided files to gain insights into different machine learning analyses and techniques. Each algorithm serves a specific purpose, offering valuable resources for understanding and applying these methodologies in your projects.
+Explore the provided files to gain insights into different machine learning analyses and techniques. Each algorithm serves a specific purpose, offering valuable resources for understanding and applying these methodologies in my projects.
 
 
 
