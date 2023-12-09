@@ -18,8 +18,8 @@ This project involves the analysis and visualization of a dataset containing inf
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/crab-dataset-analysis.git
-   cd crab-dataset-analysis
+   git clone https://github.com/ranzeet013/crab-dataset-visualization-and-analysis.git
+   cd crab-dataset-visualization-and-analysis
    ```
 
 2. **Install Dependencies:**
