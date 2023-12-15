@@ -1,1 +1,57 @@
+### 01. t-SNE Analysis And Visualization on Raw Data 
+
+I applied t-distributed Stochastic Neighbor Embedding (t-SNE) to a cleaned crab dataset for efficient dimensionality reduction and visualization. Using key columns such as 'frontal_lobe,' 'rear_width,' and others, I generated both 2D and 3D scatter plots, revealing intricate patterns and clusters within the high-dimensional data. The color-coded 2D plot highlighted distinct crab classes, while the 3D visualization added depth and complexity to the exploration. These t-SNE visualizations serve as insightful tools for quickly interpreting the dataset's inherent structures and relationships.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I conducted a thorough analysis of a dataset containing information about crabs. After loading and exploring the data, I standardized relevant columns using StandardScaler. The main focus of the script is the application of t-distributed Stochastic Neighbor Embedding (t-SNE), a nonlinear dimensionality reduction technique. Initially, t-SNE is employed to reduce the standardized data to two dimensions, and the resulting coordinates are incorporated into the DataFrame as 'TSNE1' and 'TSNE2'. A visual representation of the 2D space is created through a scatter plot, color-coded to distinguish between different crab classes. Subsequently, t-SNE is applied again, this time reducing the data to three dimensions, and the corresponding coordinates ('TSNE1', 'TSNE2', and 'TSNE3') are added to the DataFrame. A compelling 3D scatter plot is generated, offering a more nuanced insight into the dataset's intrinsic patterns. These t-SNE visualizations serve as powerful tools for understanding the underlying structures and relationships within the crab data, aiding in subsequent analyses and interpretation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
