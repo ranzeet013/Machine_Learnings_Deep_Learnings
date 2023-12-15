@@ -3,6 +3,9 @@
 I applied t-distributed Stochastic Neighbor Embedding (t-SNE) to a cleaned crab dataset for efficient dimensionality reduction and visualization. Using key columns such as 'frontal_lobe,' 'rear_width,' and others, I generated both 2D and 3D scatter plots, revealing intricate patterns and clusters within the high-dimensional data. The color-coded 2D plot highlighted distinct crab classes, while the 3D visualization added depth and complexity to the exploration. These t-SNE visualizations serve as insightful tools for quickly interpreting the dataset's inherent structures and relationships.
 
 
+### 02. t-SNE Analysis And Visualization on Scaled Data 
+
+I first applied Min-Max Scaling to a cleaned crab dataset, ensuring standardized numerical values for specific features. Subsequently, I employed t-distributed Stochastic Neighbor Embedding (t-SNE) to visualize the scaled data in both 2D and 3D formats. The resulting scatter plots reveal intricate structures and clusters within the dataset, with color-coded distinctions highlighting different crab classes. This combined approach of scaling and t-SNE visualization enhances the interpretability of the dataset, providing valuable insights into its underlying patterns and relationships.
 
 
 
@@ -37,7 +40,8 @@ I applied t-distributed Stochastic Neighbor Embedding (t-SNE) to a cleaned crab 
 
 
 
-I conducted a thorough analysis of a dataset containing information about crabs. After loading and exploring the data, I standardized relevant columns using StandardScaler. The main focus of the script is the application of t-distributed Stochastic Neighbor Embedding (t-SNE), a nonlinear dimensionality reduction technique. Initially, t-SNE is employed to reduce the standardized data to two dimensions, and the resulting coordinates are incorporated into the DataFrame as 'TSNE1' and 'TSNE2'. A visual representation of the 2D space is created through a scatter plot, color-coded to distinguish between different crab classes. Subsequently, t-SNE is applied again, this time reducing the data to three dimensions, and the corresponding coordinates ('TSNE1', 'TSNE2', and 'TSNE3') are added to the DataFrame. A compelling 3D scatter plot is generated, offering a more nuanced insight into the dataset's intrinsic patterns. These t-SNE visualizations serve as powerful tools for understanding the underlying structures and relationships within the crab data, aiding in subsequent analyses and interpretation.
+
+
 
 
 
