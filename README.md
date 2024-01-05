@@ -22,19 +22,20 @@ Link:
 **3.Day_3 of Learning:**
 - ** t-Stochastic Neighbor Embedding Analysis:** In my analysis of a cleaned crab dataset, I employed various preprocessing techniques to enhance interpretability. Initially, I applied Min-Max Scaling to ensure standardized numerical values for specific features like 'frontal_lobe' and 'rear_width.' Subsequently, I standardized the dataset using Z-score normalization (Standard Scaling), transforming selected features to have a mean of 0 and a standard deviation of 1. After these preprocessing steps, I utilized t-distributed Stochastic Neighbor Embedding (t-SNE) for efficient dimensionality reduction and visualization. The application of t-SNE generated both 2D and 3D scatter plots, unveiling intricate patterns and clusters within the high-dimensional data. The color-coded 2D plot highlighted distinct crab classes, while the 3D visualization added depth and complexity to the exploration.
 
-Link:
 [t-Stochastic Neighbour Embedding](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/02.%20t-Stochastic%20Neighbor%20Embedding%20Analysis%20And%20Visualization)
 - **01. t-SNE Analysis And Visualization on Raw Data:**
-  Link:
+  
   [01. t-SNE Analysis And Visualization on Raw Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/02.%20t-Stochastic%20Neighbor%20Embedding%20Analysis%20And%20Visualization/01.%20t-SNE%20Analysis%20And%20Visualization%20on%20Raw%20Data)
 
 - **02. t-SNE Analysis And Visualization on Scaled Data:**
-  Link:
+  
   [02. t-SNE Analysis And Visualization on Scaled Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/02.%20t-Stochastic%20Neighbor%20Embedding%20Analysis%20And%20Visualization/02.%20t-SNE%20Analysis%20And%20Visualization%20on%20Scaled%20Data)
 
 - **03. t-SNE Analysis And Visualize on Standard Data:**
-  Link:
+  
   [03. t-SNE Analysis And Visualize on Standard Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/02.%20t-Stochastic%20Neighbor%20Embedding%20Analysis%20And%20Visualization/03.%20t-SNE%20Analysis%20And%20Visualize%20on%20Standard%20Data)
+
+  
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/t-SNE-2d.jpg)
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/t-SNE-3d.jpg)
 
