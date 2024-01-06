@@ -45,8 +45,13 @@ Link:
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/t-SNE-2d.jpg)
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/t-SNE-3d.jpg)
 
+**4.Day_4 of Learning:**
+- **Locally Linear Embedding Analysi:** 
+On the fourth day of the analysis, I continued exploring the cleaned crab dataset, focusing on advanced techniques for dimensionality reduction and visualization. I implemented the Locally Linear Embedding (LLE) algorithm with two different configurations: first, with 2 dimensions, and later, with 3 dimensions. The application of LLE aimed to capture nonlinear structures in the data while preserving local relationships between data points. After successfully embedding the dataset into lower-dimensional spaces, I created visualizations, including 2D scatter plots and a 3D scatter plot. These visualizations provided deeper insights into the complex patterns and clusters within the high-dimensional data.
+Link:
+[Locally Linear Embedding Analysi](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/03.%20Locally%20Linear%20Embedding%20Analysis%20And%20Visualization)
 
-
+![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LLE.jpg)
 
 
 
