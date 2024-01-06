@@ -55,6 +55,13 @@ Link:
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LLE.jpg)
 
 
+**5.Day_5 of Learning:**
+- **Multidimensional Scaling Analysis:** On the fifth day of analysis, I utilized a cleaned crab dataset and implemented preprocessing techniques to enhance interpretability. Initially, I applied Min-Max Scaling to standardize numerical features such as 'frontal_lobe' and 'rear_width,' ensuring a consistent scale for all variables. Subsequently, I employed Multidimensional Scaling (MDS) as a dimensionality reduction technique. The MDS algorithm, executed with two and three dimensions, aimed to capture the dissimilarities between data points while preserving their relationships. The resulting MDS components were incorporated into the dataset. The stress values, indicative of how well the reduced representation preserved original distances, were assessed for both MDS configurations. Visualizations, including 2D and 3D scatter plots, were created to explore the intrinsic structures and clusters within the data.
+
+Link:
+[Multidimensional Scaling Analysis](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/04.%20Multidimensional%20Scaling%20Analysis%20and%20Visualization)
+
+![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/MDS.jpg)
 
 
 
