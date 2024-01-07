@@ -63,7 +63,13 @@ Link:
 
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/MDS.jpg)
 
+**6.Day_6 of Learning:**
+- **Isometric Mapping Analysis:** On this day of analysis, I implemented Min-Max Scaling on numerical features such as 'frontal_lobe' and 'rear_width,' ensuring a standardized scale across all variables. Subsequently, I employed Isometric Mapping (ISOMAP), a dimensionality reduction technique, to capture the inherent geometry of the data. ISOMAP was applied with both two and three dimensions, aiming to preserve dissimilarities between data points while maintaining their relationships. The resulting ISOMAP components were integrated back into the dataset. I assessed the stress values for both ISOMAP configurations to gauge the accuracy of the reduced representation in preserving the original distances. Then, I created visualizations, including 2D and 3D scatter plots, to visually explore the intrinsic structures and clusters within the dataset.
 
+Link:
+[Isometric Mapping Analysis](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/05.%20Isometric%20Mapping%20Analysis%20And%20Visualization)
+
+![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/ISOMAP.jpg)
 
 
 
