@@ -84,7 +84,13 @@ Link:
 
   ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LDA-on-Tabular.jpg)
 
+- **02. LDA Analysis And Visualization on Image Data:**
+                                                         In this analysis, Fisher Discriminant Analysis (FDA), also known as Linear Discriminant Analysis (LDA), i applied it  to a dataset containing handwritten digit images from sklearn. The imported a single digit image ('2') and created a visual grid of digit examples. Employing FDA, the dataset's dimensionality was reduced to two ('FDA1' and 'FDA2') and three dimensions ('FDA1', 'FDA2', and 'FDA3'). The resulting FDA components were converted into a DataFrame for visualization. A 2D scatter plot color-coded by digit classes and a 3D scatter plot were generated, providing a visual representation of how FDA separates different digit classes in reduced dimensions. 
 
+  Link:
+  [02. LDA Analysis And Visualization on Image Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/06.%20Linear%20Discriminant%20Analysis%20And%20Visualization/02.%20LDA%20And%20Visualization%20on%20Image%20Data)
+
+![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LDA-on-Image.jpg)
 
 
 
