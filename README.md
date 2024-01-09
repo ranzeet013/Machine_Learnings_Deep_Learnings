@@ -90,6 +90,10 @@ Link:
   Link:
   [02. LDA Analysis And Visualization on Image Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/06.%20Linear%20Discriminant%20Analysis%20And%20Visualization/02.%20LDA%20And%20Visualization%20on%20Image%20Data)
 
+![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LDA-on-Image.jpg)
+
+
+
 **8.Day_8 of Learning:**
 - **Linear Regression Analysis**: In this day, I started by importing a life expectancy dataset starting with preprocessing the data along with handling missing data, converting categorical columns to the appropriate type, and splitting the data into training and testing sets. Utilizing linear regression, both from scikit-learn and statsmodels, I fitted a model to predict life expectancy based on various features. The coefficients and intercept of the model were examined to understand their significance. Then for model diagnostics residual analysis, probability plots, and quantile-quantile (Q-Q) plots was made to assess the assumptions of linear regression. Visualizations were generated to evaluate model performance. The mean squared error and normalized mean squared error were computed to quantify the model's accuracy on the training set, along with the R-squared value.
   
@@ -116,9 +120,16 @@ Link:
 
 
 
-  
 
-![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LDA-on-Image.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
