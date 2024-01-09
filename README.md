@@ -72,8 +72,17 @@ Link:
 ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/ISOMAP.jpg)
 
 
+**7.Day_7 of Learning:**
+- **Linear Discriminant Analysis:** In this analysis, I standardized features like 'frontal_lobe' and 'rear_width' using Z-score normalization on a crab dataset and applied Linear Discriminant Analysis (LDA) in both two and three dimensions. The resulting components were integrated back for visualization through a 2D scatter plot and a 3D plot. Simultaneously, on a digit image dataset, I used Fisher Discriminant Analysis (FDA), or LDA, to reduce dimensionality to two and three dimensions, visualizing the results through 2D and 3D scatter plots. The clear organization of steps and well-chosen variable names enhances understanding of both dimensionality reduction techniques and their visual outcomes.
 
+[Linear Discriminant Analysis](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/06.%20Linear%20Discriminant%20Analysis%20And%20Visualization)
+- **01. LDA Analysis And Visualization on Tabular Data:**
+                                                         In this analysis, I began by loading a crab dataset from a CSV file and standardized key features, including 'frontal_lobe' and 'rear_width,' using Z-score normalization. Subsequently, I applied Linear Discriminant Analysis (LDA) for dimensionality reduction, initially in two dimensions ('LDA1' and 'LDA2') and then extended to three dimensions ('LDA1', 'LDA2', and 'LDA3'). The resulting LDA components were integrated back into the dataset. To visually assess the discriminative power of LDA, I generated a 2D scatter plot, color-coding data points by crab class, and a 3D plot representing the distribution of data in the three-dimensional space defined by the LDA components. 
 
+  Link:
+  [01. LDA Analysis And Visualization on Tabular Data](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/tree/main/06.%20Linear%20Discriminant%20Analysis%20And%20Visualization/01.%20LDA%20And%20Visualization%20on%20Tabular%20Data)
+
+  ![Image](https://github.com/ranzeet013/Machine_Learnings_Deep_Learnings/blob/main/Images/LDA-on-Tabular.jpg)
 
 
 
