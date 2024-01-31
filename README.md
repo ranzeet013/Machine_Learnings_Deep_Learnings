@@ -1,4 +1,4 @@
-,# Learning Machine Learnings and Deep Learnings
+m,# Learning Machine Learnings and Deep Learnings
 
 ## Journey Overview 
 I'll be sharing everything I learn on my journey of learning machine learning and deep learning. From basics to advanced concepts, I'll cover essential tools and practical applications. Whether you're a beginner or looking to deepen your understanding, my posts will be a helpful resource, documenting the learning process with hands-on experiences in machine learning and deep learning.
